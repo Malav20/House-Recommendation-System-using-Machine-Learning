@@ -1,0 +1,1410 @@
+[
+  {
+    "_id": 0,
+    "price": "$308,711.19",
+    "bedroom": 7,
+    "bathroom": 2,
+    "picture": "http://placehold.it/32x32",
+    "address": "595 Lancaster Avenue, Hendersonville, Marshall Islands, 1876",
+    "latitude": "-35.352274",
+    "longitude": "-61.631915",
+    "tags": [
+      "Price",
+      "Size of home"
+    ]
+  },
+  {
+    "_id": 1,
+    "price": "$343,622.35",
+    "bedroom": 7,
+    "bathroom": 3,
+    "picture": "http://placehold.it/32x32",
+    "address": "280 Oxford Street, Hickory, Vermont, 9824",
+    "latitude": "-29.055697",
+    "longitude": "162.043774",
+    "tags": [
+      "Bathrooms",
+      "Price"
+    ]
+  },
+  {
+    "_id": 2,
+    "price": "$206,707.37",
+    "bedroom": 7,
+    "bathroom": 9,
+    "picture": "http://placehold.it/32x32",
+    "address": "123 Tudor Terrace, Haena, Palau, 1621",
+    "latitude": "15.223842",
+    "longitude": "-19.14033",
+    "tags": [
+      "Living rooms",
+      "Schools",
+      "Bathrooms"
+    ]
+  },
+  {
+    "_id": 3,
+    "price": "$354,485.31",
+    "bedroom": 10,
+    "bathroom": 10,
+    "picture": "http://placehold.it/32x32",
+    "address": "500 Roosevelt Place, Hoehne, New Hampshire, 3907",
+    "latitude": "6.473187",
+    "longitude": "-29.237935",
+    "tags": [
+      "Size of home",
+      "Price",
+      "Bedrooms"
+    ]
+  },
+  {
+    "_id": 4,
+    "price": "$292,217.80",
+    "bedroom": 4,
+    "bathroom": 6,
+    "picture": "http://placehold.it/32x32",
+    "address": "319 Greene Avenue, Westmoreland, Mississippi, 3472",
+    "latitude": "-28.584984",
+    "longitude": "156.574841",
+    "tags": [
+      "Bedrooms",
+      "Picture"
+    ]
+  },
+  {
+    "_id": 5,
+    "price": "$341,254.02",
+    "bedroom": 2,
+    "bathroom": 2,
+    "picture": "http://placehold.it/32x32",
+    "address": "345 Friel Place, Herald, Puerto Rico, 2699",
+    "latitude": "-28.793907",
+    "longitude": "171.716627",
+    "tags": [
+      "Bedrooms",
+      "Living rooms"
+    ]
+  },
+  {
+    "_id": 6,
+    "price": "$330,542.81",
+    "bedroom": 4,
+    "bathroom": 2,
+    "picture": "http://placehold.it/32x32",
+    "address": "760 Kings Place, Romeville, District Of Columbia, 1945",
+    "latitude": "7.282063",
+    "longitude": "58.776225",
+    "tags": [
+      "Price",
+      "Size of home",
+      "Schools"
+    ]
+  },
+  {
+    "_id": 7,
+    "price": "$100,516.44",
+    "bedroom": 5,
+    "bathroom": 6,
+    "picture": "http://placehold.it/32x32",
+    "address": "331 Conway Street, Malott, Virginia, 3427",
+    "latitude": "38.100079",
+    "longitude": "-68.159269",
+    "tags": [
+      "Size of home"
+    ]
+  },
+  {
+    "_id": 8,
+    "price": "$118,186.54",
+    "bedroom": 2,
+    "bathroom": 8,
+    "picture": "http://placehold.it/32x32",
+    "address": "552 Times Placez, Venice, Florida, 5332",
+    "latitude": "32.629872",
+    "longitude": "177.918639",
+    "tags": [
+      "Price",
+      "Size of home"
+    ]
+  },
+  {
+    "_id": 9,
+    "price": "$97,725.60",
+    "bedroom": 6,
+    "bathroom": 9,
+    "picture": "http://placehold.it/32x32",
+    "address": "815 Estate Road, Chaparrito, Iowa, 3432",
+    "latitude": "-19.428979",
+    "longitude": "67.130535",
+    "tags": [
+      "Size of home",
+      "Bedrooms"
+    ]
+  },
+  {
+    "_id": 10,
+    "price": "$88,545.44",
+    "bedroom": 2,
+    "bathroom": 4,
+    "picture": "http://placehold.it/32x32",
+    "address": "957 Meadow Street, Boyd, Arkansas, 8415",
+    "latitude": "-3.610885",
+    "longitude": "142.03463",
+    "tags": [
+      "Price",
+      "Bedrooms",
+      "Size of home"
+    ]
+  },
+  {
+    "_id": 11,
+    "price": "$221,107.63",
+    "bedroom": 4,
+    "bathroom": 6,
+    "picture": "http://placehold.it/32x32",
+    "address": "564 Wogan Terrace, Adamstown, Alaska, 849",
+    "latitude": "-81.885385",
+    "longitude": "44.730679",
+    "tags": [
+      "Price",
+      "Bedrooms"
+    ]
+  },
+  {
+    "_id": 12,
+    "price": "$181,645.62",
+    "bedroom": 3,
+    "bathroom": 3,
+    "picture": "http://placehold.it/32x32",
+    "address": "868 Coleman Street, Riegelwood, Wisconsin, 6387",
+    "latitude": "-69.549125",
+    "longitude": "120.21682",
+    "tags": [
+      "Bedrooms"
+    ]
+  },
+  {
+    "_id": 13,
+    "price": "$123,209.03",
+    "bedroom": 5,
+    "bathroom": 4,
+    "picture": "http://placehold.it/32x32",
+    "address": "613 Brightwater Avenue, Reno, Utah, 867",
+    "latitude": "31.547516",
+    "longitude": "120.827519",
+    "tags": [
+      "Bathrooms",
+      "Bedrooms"
+    ]
+  },
+  {
+    "_id": 14,
+    "price": "$214,591.54",
+    "bedroom": 5,
+    "bathroom": 7,
+    "picture": "http://placehold.it/32x32",
+    "address": "306 Stillwell Place, Emerald, Minnesota, 7447",
+    "latitude": "-88.20819",
+    "longitude": "135.606111",
+    "tags": [
+      "Bedrooms",
+      "Price"
+    ]
+  },
+  {
+    "_id": 15,
+    "price": "$239,652.99",
+    "bedroom": 6,
+    "bathroom": 2,
+    "picture": "http://placehold.it/32x32",
+    "address": "279 Randolph Street, Alfarata, Wyoming, 1794",
+    "latitude": "-62.940824",
+    "longitude": "176.100883",
+    "tags": [
+      "Size of home",
+      "Bedrooms",
+      "Price"
+    ]
+  },
+  {
+    "_id": 16,
+    "price": "$75,283.80",
+    "bedroom": 8,
+    "bathroom": 7,
+    "picture": "http://placehold.it/32x32",
+    "address": "599 Eckford Street, Accoville, Texas, 3578",
+    "latitude": "-20.365151",
+    "longitude": "-15.511899",
+    "tags": [
+      "Bedrooms",
+      "Size of home",
+      "Price"
+    ]
+  },
+  {
+    "_id": 17,
+    "price": "$274,923.42",
+    "bedroom": 4,
+    "bathroom": 8,
+    "picture": "http://placehold.it/32x32",
+    "address": "826 Wallabout Street, Aurora, Arizona, 6043",
+    "latitude": "-89.499886",
+    "longitude": "18.084862",
+    "tags": [
+      "Bedrooms",
+      "Size of home"
+    ]
+  },
+  {
+    "_id": 18,
+    "price": "$398,288.30",
+    "bedroom": 6,
+    "bathroom": 9,
+    "picture": "http://placehold.it/32x32",
+    "address": "854 Butler Street, Caberfae, Colorado, 1605",
+    "latitude": "41.986837",
+    "longitude": "103.016323",
+    "tags": [
+      "Living rooms",
+      "Bedrooms"
+    ]
+  },
+  {
+    "_id": 19,
+    "price": "$287,299.93",
+    "bedroom": 8,
+    "bathroom": 2,
+    "picture": "http://placehold.it/32x32",
+    "address": "585 Bush Street, Bluffview, South Carolina, 8901",
+    "latitude": "-21.27069",
+    "longitude": "-49.564761",
+    "tags": [
+      "Size of home"
+    ]
+  },
+  {
+    "_id": 20,
+    "price": "$39,627.59",
+    "bedroom": 6,
+    "bathroom": 7,
+    "picture": "http://placehold.it/32x32",
+    "address": "274 Laurel Avenue, Dragoon, Illinois, 9238",
+    "latitude": "16.491146",
+    "longitude": "103.150641",
+    "tags": [
+      "Price"
+    ]
+  },
+  {
+    "_id": 21,
+    "price": "$184,358.47",
+    "bedroom": 5,
+    "bathroom": 9,
+    "picture": "http://placehold.it/32x32",
+    "address": "780 Cambridge Place, Charco, Louisiana, 119",
+    "latitude": "-34.418903",
+    "longitude": "-71.316291",
+    "tags": [
+      "Bedrooms"
+    ]
+  },
+  {
+    "_id": 22,
+    "price": "$190,301.28",
+    "bedroom": 2,
+    "bathroom": 6,
+    "picture": "http://placehold.it/32x32",
+    "address": "770 Seton Place, Bath, North Dakota, 6431",
+    "latitude": "-28.846101",
+    "longitude": "-137.257759",
+    "tags": [
+      "Size of home",
+      "Price",
+      "Bedrooms"
+    ]
+  },
+  {
+    "_id": 23,
+    "price": "$174,962.93",
+    "bedroom": 9,
+    "bathroom": 5,
+    "picture": "http://placehold.it/32x32",
+    "address": "529 Jay Street, Dotsero, South Dakota, 2838",
+    "latitude": "29.54307",
+    "longitude": "60.706158",
+    "tags": [
+      "Size of home",
+      "Price"
+    ]
+  },
+  {
+    "_id": 24,
+    "price": "$279,448.19",
+    "bedroom": 3,
+    "bathroom": 4,
+    "picture": "http://placehold.it/32x32",
+    "address": "530 Barwell Terrace, Helen, Maine, 221",
+    "latitude": "-83.313265",
+    "longitude": "-167.58103",
+    "tags": [
+      "Bedrooms",
+      "Size of home",
+      "Price"
+    ]
+  },
+  {
+    "_id": 25,
+    "price": "$215,447.30",
+    "bedroom": 3,
+    "bathroom": 4,
+    "picture": "http://placehold.it/32x32",
+    "address": "168 Ryder Street, Bradenville, Federated States Of Micronesia, 8807",
+    "latitude": "27.845405",
+    "longitude": "-53.78839",
+    "tags": [
+      "Living rooms",
+      "Price"
+    ]
+  },
+  {
+    "_id": 26,
+    "price": "$76,088.98",
+    "bedroom": 5,
+    "bathroom": 2,
+    "picture": "http://placehold.it/32x32",
+    "address": "345 Seba Avenue, Gadsden, Nebraska, 1384",
+    "latitude": "-83.728786",
+    "longitude": "160.644318",
+    "tags": [
+      "Living rooms",
+      "Price"
+    ]
+  },
+  {
+    "_id": 27,
+    "price": "$320,857.37",
+    "bedroom": 6,
+    "bathroom": 3,
+    "picture": "http://placehold.it/32x32",
+    "address": "245 Falmouth Street, Westphalia, Oklahoma, 8182",
+    "latitude": "50.534393",
+    "longitude": "-29.904031",
+    "tags": [
+      "Picture",
+      "Size of home"
+    ]
+  },
+  {
+    "_id": 28,
+    "price": "$140,770.55",
+    "bedroom": 10,
+    "bathroom": 6,
+    "picture": "http://placehold.it/32x32",
+    "address": "180 Evans Street, Villarreal, Kansas, 2058",
+    "latitude": "46.834067",
+    "longitude": "59.281513",
+    "tags": [
+      "Price"
+    ]
+  },
+  {
+    "_id": 29,
+    "price": "$261,219.34",
+    "bedroom": 6,
+    "bathroom": 5,
+    "picture": "http://placehold.it/32x32",
+    "address": "820 Ryerson Street, Linganore, Massachusetts, 8281",
+    "latitude": "21.485979",
+    "longitude": "7.938212",
+    "tags": [
+      "Bedrooms",
+      "Living rooms"
+    ]
+  },
+  {
+    "_id": 30,
+    "price": "$133,847.43",
+    "bedroom": 4,
+    "bathroom": 10,
+    "picture": "http://placehold.it/32x32",
+    "address": "289 Bond Street, Bascom, California, 3259",
+    "latitude": "-29.073489",
+    "longitude": "-101.274193",
+    "tags": [
+      "Size of home",
+      "Bathrooms"
+    ]
+  },
+  {
+    "_id": 31,
+    "price": "$198,211.63",
+    "bedroom": 2,
+    "bathroom": 5,
+    "picture": "http://placehold.it/32x32",
+    "address": "955 Locust Street, Layhill, North Carolina, 2883",
+    "latitude": "-1.289754",
+    "longitude": "-81.992387",
+    "tags": [
+      "Size of home",
+      "Price",
+      "Bedrooms"
+    ]
+  },
+  {
+    "_id": 32,
+    "price": "$99,108.61",
+    "bedroom": 9,
+    "bathroom": 6,
+    "picture": "http://placehold.it/32x32",
+    "address": "316 Elm Place, Springville, Idaho, 7317",
+    "latitude": "-67.536213",
+    "longitude": "-24.509127",
+    "tags": [
+      "Bedrooms"
+    ]
+  },
+  {
+    "_id": 33,
+    "price": "$77,640.65",
+    "bedroom": 2,
+    "bathroom": 10,
+    "picture": "http://placehold.it/32x32",
+    "address": "724 Lefferts Avenue, Siglerville, Pennsylvania, 2328",
+    "latitude": "-48.040708",
+    "longitude": "130.404673",
+    "tags": [
+      "Size of home",
+      "Bedrooms"
+    ]
+  },
+  {
+    "_id": 34,
+    "price": "$71,573.40",
+    "bedroom": 4,
+    "bathroom": 3,
+    "picture": "http://placehold.it/32x32",
+    "address": "823 Graham Avenue, Bodega, Montana, 4900",
+    "latitude": "-76.505858",
+    "longitude": "160.476627",
+    "tags": [
+      "Bedrooms",
+      "Price"
+    ]
+  },
+  {
+    "_id": 35,
+    "price": "$34,027.78",
+    "bedroom": 2,
+    "bathroom": 9,
+    "picture": "http://placehold.it/32x32",
+    "address": "832 Elliott Walk, Carbonville, Washington, 7509",
+    "latitude": "-31.855983",
+    "longitude": "150.196089",
+    "tags": [
+      "Size of home",
+      "Bathrooms",
+      "Price"
+    ]
+  },
+  {
+    "_id": 36,
+    "price": "$342,232.34",
+    "bedroom": 4,
+    "bathroom": 5,
+    "picture": "http://placehold.it/32x32",
+    "address": "854 Ira Court, Belva, Indiana, 8548",
+    "latitude": "30.136584",
+    "longitude": "-162.888719",
+    "tags": [
+      "Bathrooms"
+    ]
+  },
+  {
+    "_id": 37,
+    "price": "$111,990.63",
+    "bedroom": 9,
+    "bathroom": 8,
+    "picture": "http://placehold.it/32x32",
+    "address": "532 Fulton Street, Independence, Virgin Islands, 5490",
+    "latitude": "-71.180464",
+    "longitude": "98.277113",
+    "tags": [
+      "Size of home",
+      "Price"
+    ]
+  },
+  {
+    "_id": 38,
+    "price": "$63,189.78",
+    "bedroom": 4,
+    "bathroom": 8,
+    "picture": "http://placehold.it/32x32",
+    "address": "338 Seigel Street, Cutter, Oregon, 902",
+    "latitude": "-62.698899",
+    "longitude": "38.019407",
+    "tags": [
+      "Living rooms",
+      "Price",
+      "Size of home"
+    ]
+  },
+  {
+    "_id": 39,
+    "price": "$110,860.13",
+    "bedroom": 6,
+    "bathroom": 3,
+    "picture": "http://placehold.it/32x32",
+    "address": "186 Turner Place, Freeburn, Maryland, 9599",
+    "latitude": "-35.074464",
+    "longitude": "-154.979163",
+    "tags": [
+      "Living rooms",
+      "Price",
+      "Size of home"
+    ]
+  },
+  {
+    "_id": 40,
+    "price": "$249,227.87",
+    "bedroom": 8,
+    "bathroom": 9,
+    "picture": "http://placehold.it/32x32",
+    "address": "429 Prospect Avenue, Groton, Rhode Island, 547",
+    "latitude": "-35.287371",
+    "longitude": "-79.726324",
+    "tags": [
+      "Price",
+      "Bathrooms",
+      "Bedrooms"
+    ]
+  },
+  {
+    "_id": 41,
+    "price": "$117,579.68",
+    "bedroom": 10,
+    "bathroom": 2,
+    "picture": "http://placehold.it/32x32",
+    "address": "879 Cheever Place, Bayview, New Jersey, 2704",
+    "latitude": "-4.501862",
+    "longitude": "94.337472",
+    "tags": [
+      "Size of home"
+    ]
+  },
+  {
+    "_id": 42,
+    "price": "$139,505.62",
+    "bedroom": 4,
+    "bathroom": 3,
+    "picture": "http://placehold.it/32x32",
+    "address": "273 Kensington Walk, Ripley, Northern Mariana Islands, 1503",
+    "latitude": "-37.031513",
+    "longitude": "-151.30002",
+    "tags": [
+      "Price"
+    ]
+  },
+  {
+    "_id": 43,
+    "price": "$185,251.04",
+    "bedroom": 4,
+    "bathroom": 3,
+    "picture": "http://placehold.it/32x32",
+    "address": "378 Lincoln Place, Leeper, Delaware, 4387",
+    "latitude": "43.119307",
+    "longitude": "166.052227",
+    "tags": [
+      "Picture"
+    ]
+  },
+  {
+    "_id": 44,
+    "price": "$256,603.17",
+    "bedroom": 8,
+    "bathroom": 9,
+    "picture": "http://placehold.it/32x32",
+    "address": "696 Harwood Place, Spokane, West Virginia, 4747",
+    "latitude": "-9.69998",
+    "longitude": "12.93693",
+    "tags": [
+      "Price",
+      "Bedrooms"
+    ]
+  },
+  {
+    "_id": 45,
+    "price": "$88,143.42",
+    "bedroom": 8,
+    "bathroom": 2,
+    "picture": "http://placehold.it/32x32",
+    "address": "270 Pierrepont Street, Wanamie, Connecticut, 552",
+    "latitude": "87.231448",
+    "longitude": "42.954453",
+    "tags": [
+      "Price"
+    ]
+  },
+  {
+    "_id": 46,
+    "price": "$279,543.40",
+    "bedroom": 7,
+    "bathroom": 8,
+    "picture": "http://placehold.it/32x32",
+    "address": "213 Billings Place, Kraemer, Guam, 9525",
+    "latitude": "74.577903",
+    "longitude": "-30.98383",
+    "tags": [
+      "Size of home"
+    ]
+  },
+  {
+    "_id": 47,
+    "price": "$193,521.54",
+    "bedroom": 6,
+    "bathroom": 2,
+    "picture": "http://placehold.it/32x32",
+    "address": "488 Varick Street, Rivers, Nevada, 2241",
+    "latitude": "-72.550792",
+    "longitude": "-72.730008",
+    "tags": [
+      "Size of home",
+      "Bathrooms",
+      "Bedrooms"
+    ]
+  },
+  {
+    "_id": 48,
+    "price": "$378,186.90",
+    "bedroom": 2,
+    "bathroom": 8,
+    "picture": "http://placehold.it/32x32",
+    "address": "908 Rutledge Street, Chloride, Georgia, 3589",
+    "latitude": "51.627032",
+    "longitude": "171.026511",
+    "tags": [
+      "Price",
+      "Size of home"
+    ]
+  },
+  {
+    "_id": 49,
+    "price": "$251,274.68",
+    "bedroom": 9,
+    "bathroom": 5,
+    "picture": "http://placehold.it/32x32",
+    "address": "383 Boulevard Court, Nanafalia, Kentucky, 7343",
+    "latitude": "-67.731168",
+    "longitude": "36.341326",
+    "tags": [
+      "Price",
+      "Size of home",
+      "Bedrooms"
+    ]
+  },
+  {
+    "_id": 50,
+    "price": "$137,611.59",
+    "bedroom": 9,
+    "bathroom": 10,
+    "picture": "http://placehold.it/32x32",
+    "address": "916 Dover Street, Dante, Missouri, 1478",
+    "latitude": "-89.044775",
+    "longitude": "134.761993",
+    "tags": [
+      "Bedrooms",
+      "Size of home"
+    ]
+  },
+  {
+    "_id": 51,
+    "price": "$359,846.63",
+    "bedroom": 3,
+    "bathroom": 8,
+    "picture": "http://placehold.it/32x32",
+    "address": "410 Lloyd Court, Rowe, Alabama, 9084",
+    "latitude": "-64.368263",
+    "longitude": "82.724412",
+    "tags": [
+      "Bedrooms",
+      "Size of home"
+    ]
+  },
+  {
+    "_id": 52,
+    "price": "$116,744.19",
+    "bedroom": 8,
+    "bathroom": 6,
+    "picture": "http://placehold.it/32x32",
+    "address": "434 Caton Place, Imperial, Ohio, 385",
+    "latitude": "-73.19567",
+    "longitude": "128.523014",
+    "tags": [
+      "Size of home",
+      "Bedrooms"
+    ]
+  },
+  {
+    "_id": 53,
+    "price": "$93,349.98",
+    "bedroom": 3,
+    "bathroom": 3,
+    "picture": "http://placehold.it/32x32",
+    "address": "339 Rapelye Street, Lindisfarne, New Mexico, 2682",
+    "latitude": "-68.079887",
+    "longitude": "42.374256",
+    "tags": [
+      "Picture",
+      "Price",
+      "Size of home"
+    ]
+  },
+  {
+    "_id": 54,
+    "price": "$303,972.78",
+    "bedroom": 7,
+    "bathroom": 10,
+    "picture": "http://placehold.it/32x32",
+    "address": "818 Richards Street, Eastmont, Michigan, 7707",
+    "latitude": "26.382139",
+    "longitude": "28.549462",
+    "tags": [
+      "Price"
+    ]
+  },
+  {
+    "_id": 55,
+    "price": "$391,338.94",
+    "bedroom": 5,
+    "bathroom": 5,
+    "picture": "http://placehold.it/32x32",
+    "address": "761 Hill Street, Sunbury, New York, 6358",
+    "latitude": "24.512627",
+    "longitude": "-21.452385",
+    "tags": [
+      "Price",
+      "Size of home",
+      "Bedrooms"
+    ]
+  },
+  {
+    "_id": 56,
+    "price": "$262,509.68",
+    "bedroom": 10,
+    "bathroom": 3,
+    "picture": "http://placehold.it/32x32",
+    "address": "397 Amity Street, Macdona, American Samoa, 1916",
+    "latitude": "8.237536",
+    "longitude": "148.937683",
+    "tags": [
+      "Price",
+      "Size of home"
+    ]
+  },
+  {
+    "_id": 57,
+    "price": "$263,124.92",
+    "bedroom": 9,
+    "bathroom": 6,
+    "picture": "http://placehold.it/32x32",
+    "address": "928 Frank Court, Hasty, Tennessee, 9332",
+    "latitude": "-42.646529",
+    "longitude": "21.488237",
+    "tags": [
+      "Size of home"
+    ]
+  },
+  {
+    "_id": 58,
+    "price": "$184,437.12",
+    "bedroom": 4,
+    "bathroom": 4,
+    "picture": "http://placehold.it/32x32",
+    "address": "156 Ellery Street, Rivereno, Marshall Islands, 3925",
+    "latitude": "15.185203",
+    "longitude": "60.929639",
+    "tags": [
+      "Size of home"
+    ]
+  },
+  {
+    "_id": 59,
+    "price": "$284,918.68",
+    "bedroom": 8,
+    "bathroom": 7,
+    "picture": "http://placehold.it/32x32",
+    "address": "129 Baltic Street, Wakarusa, Vermont, 5658",
+    "latitude": "-45.384262",
+    "longitude": "-10.796999",
+    "tags": [
+      "Living rooms",
+      "Bathrooms"
+    ]
+  },
+  {
+    "_id": 60,
+    "price": "$394,921.50",
+    "bedroom": 2,
+    "bathroom": 5,
+    "picture": "http://placehold.it/32x32",
+    "address": "548 Ludlam Place, Ferney, Palau, 5903",
+    "latitude": "86.703286",
+    "longitude": "-144.517238",
+    "tags": [
+      "Bathrooms"
+    ]
+  },
+  {
+    "_id": 61,
+    "price": "$92,173.29",
+    "bedroom": 9,
+    "bathroom": 3,
+    "picture": "http://placehold.it/32x32",
+    "address": "396 Conover Street, Jackpot, New Hampshire, 2816",
+    "latitude": "-54.991547",
+    "longitude": "17.362941",
+    "tags": [
+      "Price"
+    ]
+  },
+  {
+    "_id": 62,
+    "price": "$15,236.47",
+    "bedroom": 8,
+    "bathroom": 7,
+    "picture": "http://placehold.it/32x32",
+    "address": "751 Schenectady Avenue, Brule, Mississippi, 4837",
+    "latitude": "-70.092462",
+    "longitude": "-100.690081",
+    "tags": [
+      "Size of home",
+      "Price"
+    ]
+  },
+  {
+    "_id": 63,
+    "price": "$302,293.32",
+    "bedroom": 10,
+    "bathroom": 3,
+    "picture": "http://placehold.it/32x32",
+    "address": "267 Beverley Road, Glasgow, Puerto Rico, 4083",
+    "latitude": "45.569608",
+    "longitude": "159.154532",
+    "tags": [
+      "Living rooms",
+      "Bedrooms"
+    ]
+  },
+  {
+    "_id": 64,
+    "price": "$212,730.38",
+    "bedroom": 5,
+    "bathroom": 5,
+    "picture": "http://placehold.it/32x32",
+    "address": "181 Landis Court, Hayden, District Of Columbia, 4786",
+    "latitude": "-72.911932",
+    "longitude": "160.720404",
+    "tags": [
+      "Size of home",
+      "Price"
+    ]
+  },
+  {
+    "_id": 65,
+    "price": "$172,609.03",
+    "bedroom": 7,
+    "bathroom": 9,
+    "picture": "http://placehold.it/32x32",
+    "address": "843 Hopkins Street, Hegins, Virginia, 7907",
+    "latitude": "-49.681352",
+    "longitude": "-160.691674",
+    "tags": [
+      "Price",
+      "Bedrooms",
+      "Size of home"
+    ]
+  },
+  {
+    "_id": 66,
+    "price": "$126,304.64",
+    "bedroom": 5,
+    "bathroom": 6,
+    "picture": "http://placehold.it/32x32",
+    "address": "525 Bay Parkway, Bainbridge, Florida, 3820",
+    "latitude": "-37.669816",
+    "longitude": "42.628955",
+    "tags": [
+      "Price",
+      "Size of home"
+    ]
+  },
+  {
+    "_id": 67,
+    "price": "$376,025.46",
+    "bedroom": 5,
+    "bathroom": 3,
+    "picture": "http://placehold.it/32x32",
+    "address": "421 Banker Street, Franklin, Iowa, 3243",
+    "latitude": "-61.6978",
+    "longitude": "-57.471222",
+    "tags": [
+      "Living rooms",
+      "Bedrooms",
+      "Size of home"
+    ]
+  },
+  {
+    "_id": 68,
+    "price": "$280,089.81",
+    "bedroom": 3,
+    "bathroom": 10,
+    "picture": "http://placehold.it/32x32",
+    "address": "999 Townsend Street, Curtice, Arkansas, 9987",
+    "latitude": "-88.180155",
+    "longitude": "-14.121572",
+    "tags": [
+      "Size of home",
+      "Bathrooms"
+    ]
+  },
+  {
+    "_id": 69,
+    "price": "$397,339.73",
+    "bedroom": 5,
+    "bathroom": 3,
+    "picture": "http://placehold.it/32x32",
+    "address": "931 Mill Street, Falmouth, Alaska, 9147",
+    "latitude": "-22.102145",
+    "longitude": "-73.787703",
+    "tags": [
+      "Size of home",
+      "Bedrooms",
+      "Price"
+    ]
+  },
+  {
+    "_id": 70,
+    "price": "$71,045.04",
+    "bedroom": 4,
+    "bathroom": 5,
+    "picture": "http://placehold.it/32x32",
+    "address": "187 Everit Street, Graball, Wisconsin, 8535",
+    "latitude": "51.833408",
+    "longitude": "17.73405",
+    "tags": [
+      "Price",
+      "Bedrooms"
+    ]
+  },
+  {
+    "_id": 71,
+    "price": "$43,293.34",
+    "bedroom": 8,
+    "bathroom": 8,
+    "picture": "http://placehold.it/32x32",
+    "address": "765 Dumont Avenue, Goodville, Utah, 8294",
+    "latitude": "-24.437347",
+    "longitude": "-55.646795",
+    "tags": [
+      "Size of home"
+    ]
+  },
+  {
+    "_id": 72,
+    "price": "$23,736.08",
+    "bedroom": 10,
+    "bathroom": 3,
+    "picture": "http://placehold.it/32x32",
+    "address": "521 Village Road, Williston, Minnesota, 7770",
+    "latitude": "32.259944",
+    "longitude": "-169.367259",
+    "tags": [
+      "Price"
+    ]
+  },
+  {
+    "_id": 73,
+    "price": "$162,044.76",
+    "bedroom": 8,
+    "bathroom": 5,
+    "picture": "http://placehold.it/32x32",
+    "address": "131 Kathleen Court, Hillsboro, Wyoming, 4788",
+    "latitude": "-0.954633",
+    "longitude": "-136.747177",
+    "tags": [
+      "Bedrooms",
+      "Price"
+    ]
+  },
+  {
+    "_id": 74,
+    "price": "$343,076.25",
+    "bedroom": 7,
+    "bathroom": 10,
+    "picture": "http://placehold.it/32x32",
+    "address": "555 Matthews Court, Beyerville, Texas, 5694",
+    "latitude": "-23.271671",
+    "longitude": "-119.698314",
+    "tags": [
+      "Size of home",
+      "Bathrooms",
+      "Price"
+    ]
+  },
+  {
+    "_id": 75,
+    "price": "$77,023.99",
+    "bedroom": 5,
+    "bathroom": 2,
+    "picture": "http://placehold.it/32x32",
+    "address": "941 Bragg Street, Saddlebrooke, Arizona, 7104",
+    "latitude": "-30.174669",
+    "longitude": "137.452022",
+    "tags": [
+      "Bedrooms",
+      "Size of home",
+      "Price"
+    ]
+  },
+  {
+    "_id": 76,
+    "price": "$257,680.12",
+    "bedroom": 5,
+    "bathroom": 9,
+    "picture": "http://placehold.it/32x32",
+    "address": "841 Noll Street, Wescosville, Colorado, 2453",
+    "latitude": "-53.381287",
+    "longitude": "70.615259",
+    "tags": [
+      "Bathrooms",
+      "Price"
+    ]
+  },
+  {
+    "_id": 77,
+    "price": "$187,314.45",
+    "bedroom": 4,
+    "bathroom": 5,
+    "picture": "http://placehold.it/32x32",
+    "address": "409 Clove Road, Lafferty, South Carolina, 1784",
+    "latitude": "-88.039946",
+    "longitude": "166.227261",
+    "tags": [
+      "Living rooms",
+      "Bedrooms"
+    ]
+  },
+  {
+    "_id": 78,
+    "price": "$386,535.15",
+    "bedroom": 9,
+    "bathroom": 9,
+    "picture": "http://placehold.it/32x32",
+    "address": "743 Thames Street, Forbestown, Illinois, 6355",
+    "latitude": "82.141089",
+    "longitude": "108.10056",
+    "tags": [
+      "Size of home",
+      "Living rooms",
+      "Price"
+    ]
+  },
+  {
+    "_id": 79,
+    "price": "$165,449.93",
+    "bedroom": 7,
+    "bathroom": 10,
+    "picture": "http://placehold.it/32x32",
+    "address": "376 Atlantic Avenue, Sterling, Louisiana, 3920",
+    "latitude": "85.032745",
+    "longitude": "-135.413172",
+    "tags": [
+      "Bathrooms",
+      "Size of home"
+    ]
+  },
+  {
+    "_id": 80,
+    "price": "$172,759.66",
+    "bedroom": 8,
+    "bathroom": 10,
+    "picture": "http://placehold.it/32x32",
+    "address": "527 Lester Court, Navarre, North Dakota, 6304",
+    "latitude": "-73.023097",
+    "longitude": "-118.135607",
+    "tags": [
+      "Bedrooms",
+      "Size of home"
+    ]
+  },
+  {
+    "_id": 81,
+    "price": "$182,404.64",
+    "bedroom": 2,
+    "bathroom": 7,
+    "picture": "http://placehold.it/32x32",
+    "address": "270 Canal Avenue, Chamberino, South Dakota, 5902",
+    "latitude": "-52.509064",
+    "longitude": "-65.878263",
+    "tags": [
+      "Size of home",
+      "Bathrooms"
+    ]
+  },
+  {
+    "_id": 82,
+    "price": "$34,717.44",
+    "bedroom": 3,
+    "bathroom": 4,
+    "picture": "http://placehold.it/32x32",
+    "address": "491 Suydam Place, Caron, Maine, 5578",
+    "latitude": "32.688061",
+    "longitude": "-167.89058",
+    "tags": [
+      "Size of home",
+      "Bedrooms"
+    ]
+  },
+  {
+    "_id": 83,
+    "price": "$76,277.01",
+    "bedroom": 2,
+    "bathroom": 9,
+    "picture": "http://placehold.it/32x32",
+    "address": "200 Strickland Avenue, Indio, Federated States Of Micronesia, 4227",
+    "latitude": "-71.842985",
+    "longitude": "-92.25159",
+    "tags": [
+      "Price",
+      "Size of home"
+    ]
+  },
+  {
+    "_id": 84,
+    "price": "$270,369.66",
+    "bedroom": 4,
+    "bathroom": 8,
+    "picture": "http://placehold.it/32x32",
+    "address": "266 Ditmars Street, Joppa, Nebraska, 5496",
+    "latitude": "2.79256",
+    "longitude": "141.729473",
+    "tags": [
+      "Location",
+      "Price",
+      "Picture"
+    ]
+  },
+  {
+    "_id": 85,
+    "price": "$49,110.53",
+    "bedroom": 4,
+    "bathroom": 6,
+    "picture": "http://placehold.it/32x32",
+    "address": "390 Portland Avenue, Mulberry, Oklahoma, 725",
+    "latitude": "50.839042",
+    "longitude": "-96.333425",
+    "tags": [
+      "Price",
+      "Size of home",
+      "Bedrooms"
+    ]
+  },
+  {
+    "_id": 86,
+    "price": "$215,718.62",
+    "bedroom": 10,
+    "bathroom": 5,
+    "picture": "http://placehold.it/32x32",
+    "address": "899 Metrotech Courtr, Outlook, Kansas, 8411",
+    "latitude": "66.400636",
+    "longitude": "20.54823",
+    "tags": [
+      "Size of home"
+    ]
+  },
+  {
+    "_id": 87,
+    "price": "$366,948.40",
+    "bedroom": 9,
+    "bathroom": 9,
+    "picture": "http://placehold.it/32x32",
+    "address": "448 Roosevelt Court, Montura, Massachusetts, 1222",
+    "latitude": "-25.275473",
+    "longitude": "-140.912756",
+    "tags": [
+      "Size of home",
+      "Bedrooms"
+    ]
+  },
+  {
+    "_id": 88,
+    "price": "$307,019.96",
+    "bedroom": 9,
+    "bathroom": 10,
+    "picture": "http://placehold.it/32x32",
+    "address": "286 Lott Street, Chelsea, California, 728",
+    "latitude": "-53.721887",
+    "longitude": "-63.890598",
+    "tags": [
+      "Price",
+      "Size of home",
+      "Bedrooms"
+    ]
+  },
+  {
+    "_id": 89,
+    "price": "$212,215.95",
+    "bedroom": 3,
+    "bathroom": 10,
+    "picture": "http://placehold.it/32x32",
+    "address": "160 Johnson Street, Herlong, North Carolina, 8185",
+    "latitude": "-29.604528",
+    "longitude": "41.567144",
+    "tags": [
+      "Bedrooms"
+    ]
+  },
+  {
+    "_id": 90,
+    "price": "$151,656.59",
+    "bedroom": 10,
+    "bathroom": 4,
+    "picture": "http://placehold.it/32x32",
+    "address": "921 Schweikerts Walk, Ada, Idaho, 574",
+    "latitude": "53.840613",
+    "longitude": "44.990093",
+    "tags": [
+      "Price",
+      "Picture",
+      "Size of home"
+    ]
+  },
+  {
+    "_id": 91,
+    "price": "$14,991.06",
+    "bedroom": 5,
+    "bathroom": 4,
+    "picture": "http://placehold.it/32x32",
+    "address": "974 Cooke Court, Galesville, Pennsylvania, 2009",
+    "latitude": "-74.026827",
+    "longitude": "-140.293776",
+    "tags": [
+      "Living rooms",
+      "Price",
+      "Bathrooms"
+    ]
+  },
+  {
+    "_id": 92,
+    "price": "$192,101.38",
+    "bedroom": 3,
+    "bathroom": 7,
+    "picture": "http://placehold.it/32x32",
+    "address": "238 Brooklyn Avenue, Ticonderoga, Montana, 2447",
+    "latitude": "-61.756083",
+    "longitude": "138.056033",
+    "tags": [
+      "Price",
+      "Bathrooms"
+    ]
+  },
+  {
+    "_id": 93,
+    "price": "$74,850.91",
+    "bedroom": 9,
+    "bathroom": 5,
+    "picture": "http://placehold.it/32x32",
+    "address": "335 Banner Avenue, Beason, Washington, 4713",
+    "latitude": "38.037918",
+    "longitude": "-23.133338",
+    "tags": [
+      "Bedrooms",
+      "Price"
+    ]
+  },
+  {
+    "_id": 94,
+    "price": "$382,664.31",
+    "bedroom": 10,
+    "bathroom": 4,
+    "picture": "http://placehold.it/32x32",
+    "address": "638 Ocean Avenue, Lemoyne, Indiana, 6432",
+    "latitude": "-83.592569",
+    "longitude": "125.637178",
+    "tags": [
+      "Size of home",
+      "Price"
+    ]
+  },
+  {
+    "_id": 95,
+    "price": "$27,154.32",
+    "bedroom": 6,
+    "bathroom": 2,
+    "picture": "http://placehold.it/32x32",
+    "address": "751 Manor Court, Bergoo, Virgin Islands, 9040",
+    "latitude": "12.756873",
+    "longitude": "-119.160185",
+    "tags": [
+      "Price",
+      "Bedrooms",
+      "Size of home"
+    ]
+  },
+  {
+    "_id": 96,
+    "price": "$373,395.55",
+    "bedroom": 5,
+    "bathroom": 6,
+    "picture": "http://placehold.it/32x32",
+    "address": "950 Middagh Street, Norwood, Oregon, 6656",
+    "latitude": "3.632825",
+    "longitude": "168.2024",
+    "tags": [
+      "Price",
+      "Size of home"
+    ]
+  },
+  {
+    "_id": 97,
+    "price": "$75,639.26",
+    "bedroom": 6,
+    "bathroom": 9,
+    "picture": "http://placehold.it/32x32",
+    "address": "922 Crown Street, Campo, Maryland, 1680",
+    "latitude": "-68.859606",
+    "longitude": "65.926745",
+    "tags": [
+      "Size of home",
+      "Price"
+    ]
+  },
+  {
+    "_id": 98,
+    "price": "$98,124.57",
+    "bedroom": 8,
+    "bathroom": 10,
+    "picture": "http://placehold.it/32x32",
+    "address": "773 Homecrest Court, Coldiron, Rhode Island, 7022",
+    "latitude": "-85.147198",
+    "longitude": "88.656042",
+    "tags": [
+      "Price",
+      "Bedrooms"
+    ]
+  },
+  {
+    "_id": 99,
+    "price": "$152,420.52",
+    "bedroom": 2,
+    "bathroom": 6,
+    "picture": "http://placehold.it/32x32",
+    "address": "873 Garnet Street, Stagecoach, New Jersey, 5841",
+    "latitude": "-56.520318",
+    "longitude": "-91.93425",
+    "tags": [
+      "Size of home",
+      "Price",
+      "Bedrooms"
+    ]
+  }
+]
